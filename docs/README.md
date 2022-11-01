@@ -43,17 +43,7 @@ Need a schedule?
 - You've got 2.5 weeks.
 - You have other classes with final exams/projects.
 - Assume you want to spend the last half week doing the EC and getting additional help.
-- Keeping those things in mind, fill in the following:
-  - 11/01-11/03: _______________________________ (first week)
-    - Suggestions: Task 1 and Task 2
-  - 11/04-11/06: _______________________________ (first weekend)
-    - Suggestions: JavaDocs for All Classes, Start Task 3
-  - 11/07-11/11: _______________________________ (second week)
-    - Suggestions: Finish Task 3 and Start Task 4
-  - 11/12-11/14: _______________________________ (second weekend)
-    - Suggestions: Finish Task 4 and Task 5
-  - 11/15-11/17: _______________________________ (third week)
-    - Suggestions: Turn in early for extra credit
+
 
 ## Rules and Grading
 As with all projects in CS310, we have some rules (see [Rules Page](RULES.md "")) and a grading rubric (see [Rubric Page](GRADING.md "")).
