@@ -1,6 +1,6 @@
 # Graph Algorithm Simulator
 
-CS 310 Programming Assignment 4 Due: **November 17th** (Thursday) 11:59pm, 2022
+
 
 <img src="animated.gif" width="400px" />
 
