@@ -39,10 +39,7 @@ There are **5** tasks in this assignment. It is suggested that you implement the
 
 See the [Examples Page](EXAMPLES.md "") for what the simulator should be able to do when you are done, and then see the [Task Details Page](TASKS.md "") for a walk-through of each specific task.
 
-Need a schedule?
-- You've got 2.5 weeks.
-- You have other classes with final exams/projects.
-- Assume you want to spend the last half week doing the EC and getting additional help.
+
 
 
 ## Rules and Grading
